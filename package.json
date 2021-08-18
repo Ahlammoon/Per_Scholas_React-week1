@@ -1,19 +1,19 @@
 {
-  "name": "pwd",
+  "name": "pre_scholas_react-week1",
   "version": "1.0.0",
-  "main": "greeting.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Ahlammoon/pre_scholas_react-week1.git"
   },
+  "author": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/Ahlammoon/pre_scholas_react-week1/issues"
   },
-  "homepage": "https://github.com/Ahlammoon/pre_scholas_react-week1#readme",
-  "description": ""
+  "homepage": "https://github.com/Ahlammoon/pre_scholas_react-week1#readme"
 }

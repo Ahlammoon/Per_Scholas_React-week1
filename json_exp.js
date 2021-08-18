@@ -17,3 +17,9 @@ const myInfo={
      "personalInfo" :{"favoriteFood":"Piza",}
 };
 console.log("my Info", myInfo)
+
+function sayHi(name){
+  return "my name is " +name;
+}
+
+console.log(sayHi("Malak"));
